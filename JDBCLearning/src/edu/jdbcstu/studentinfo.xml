@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentinfo>
+    <student>
+        <id> 10006 </id>
+        <name> jack ma </name>
+        <classname> Class01  </classname>
+    </student>
+    <student>
+        <id> 10007 </id>
+        <name> stephen curry </name>
+        <classname> Class03 </classname>
+    </student>
+</studentinfo>
